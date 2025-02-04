@@ -1,0 +1,82 @@
+[
+  {
+    "name": "josa",
+    "url": "https://charts.josa.ngo"
+  },
+  {
+    "name": "drone",
+    "url": "https://charts.drone.io"
+  },
+  {
+    "name": "bitnami",
+    "url": "https://charts.bitnami.com/bitnami"
+  },
+  {
+    "name": "jetstack",
+    "url": "https://charts.jetstack.io"
+  },
+  {
+    "name": "authelia",
+    "url": "https://charts.authelia.com"
+  },
+  {
+    "name": "helm-openldap",
+    "url": "https://jp-gouin.github.io/helm-openldap/"
+  },
+  {
+    "name": "bugfest",
+    "url": "https://bugfest.github.io/tor-controller"
+  },
+  {
+    "name": "zammad",
+    "url": "https://zammad.github.io/zammad-helm"
+  },
+  {
+    "name": "fairwinds-stable",
+    "url": "https://charts.fairwinds.com/stable"
+  },
+  {
+    "name": "traefik",
+    "url": "https://traefik.github.io/charts"
+  },
+  {
+    "name": "kong",
+    "url": "https://charts.konghq.com"
+  },
+  {
+    "name": "nextcloud",
+    "url": "https://nextcloud.github.io/helm/"
+  },
+  {
+    "name": "openproject",
+    "url": "https://charts.openproject.org"
+  },
+  {
+    "name": "metrics-server",
+    "url": "https://kubernetes-sigs.github.io/metrics-server/"
+  },
+  {
+    "name": "prometheus-community",
+    "url": "https://prometheus-community.github.io/helm-charts"
+  },
+  {
+    "name": "kubecost",
+    "url": "https://kubecost.github.io/cost-analyzer/"
+  },
+  {
+    "name": "teleport",
+    "url": "https://charts.releases.teleport.dev"
+  },
+  {
+    "name": "fleet",
+    "url": "https://fleetdm.github.io/fleet/charts"
+  },
+  {
+    "name": "grafana",
+    "url": "https://grafana.github.io/helm-charts"
+  },
+  {
+    "name": "sendgrid-stats-exporter",
+    "url": "git+https://github.com/chatwork/sendgrid-stats-exporter@charts?ref=0.0.9"
+  }
+]
