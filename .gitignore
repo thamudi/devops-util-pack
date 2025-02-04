@@ -5,3 +5,6 @@
 tempfile
 env.*
 env
+
+# exclusions
+!helm_repos.json
